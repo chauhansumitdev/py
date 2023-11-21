@@ -1,6 +1,6 @@
 # Supervised learning
-# regression
-#classification
+# regression (single , multiple)
+#classification (logistic regression)
 
 
 
